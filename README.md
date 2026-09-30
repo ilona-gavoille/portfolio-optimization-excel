@@ -1,6 +1,6 @@
 # Portfolio Optimization & Asset Allocation Tool
 
-Automated Excel tool for portfolio construction based on **Markowitz's Modern Portfolio Theory**: it pulls market data, computes risk/return statistics, and uses Solver to generate an efficient frontier, a Maximum Sharpe portfolio and a Minimum Variance portfolio, all explored through an interactive dashboard.
+Automated Excel tool for portfolio construction based on **Markowitz's Modern Portfolio Theory**: it pulls market data, computes risk/return statistics, and uses Solver to generate an efficient frontier, an Optimal portfolio and a Minimum Variance portfolio, all explored through an interactive dashboard.
 
 **Tech:** Excel · Power Query · VBA · Solver · Financial Modeling Prep API
 
@@ -12,7 +12,7 @@ Automated Excel tool for portfolio construction based on **Markowitz's Modern Po
 - **Automated market data:** daily prices for 8 US stocks via the Financial Modeling Prep API, imported with Power Query and refreshed by a VBA button.
 - **Risk & return analytics:** daily returns, annualized return and volatility, correlation and covariance matrices, Sharpe ratio.
 - **Constrained optimization** with Excel Solver: user-defined min/max weights per asset, fully invested, no short selling.
-- **Efficient frontier:** 12 portfolios plus the Capital Allocation Line, the Maximum Sharpe portfolio and the Minimum Variance portfolio.
+- **Efficient frontier:** 12 portfolios plus the Capital Allocation Line, the Optimal Sharpe portfolio and the Minimum Variance portfolio.
 - **Interactive dashboard:** select any portfolio and see allocation, expected return, volatility, Sharpe ratio, maximum drawdown, cumulative performance and comparison with the S&P 500 (SPY).
 
 ## Quick Start
