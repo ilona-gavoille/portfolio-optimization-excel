@@ -43,10 +43,10 @@ AAPL · MSFT · JPM · XOM · JNJ · AMZN · KO · WMT (chosen for sector divers
 
 ## Limitations
 
-- Fixed universe of 8 US equities (constraint of the API's free plan); no ETFs or bonds.
-- Historical returns are used as a proxy for expected returns.
-- All capital is invested in risky assets; risky/risk-free allocation is not optimized.
-- No transaction costs, taxes, liquidity or market impact.
+- Fixed universe of 8 US equities (constraint of the API's free plan); no ETFs or bonds
+- Historical returns are used as a proxy for expected returns
+- All capital is invested in risky assets; risky/risk-free allocation is not optimized
+- No transaction costs, taxes, liquidity or market impact
 
 ## Roadmap
 
@@ -64,8 +64,19 @@ AAPL · MSFT · JPM · XOM · JNJ · AMZN · KO · WMT (chosen for sector divers
 ├── docs/
 │   ├── How_to_Use.pdf
 │   └── Project_documentation.pdf
-└── images/
+└── screenshots/
+    ├── Dashboard.png
+    ├── Portfolio_Optimization.png
+    ├── Efficient_Frontier.png
+    ├── VBA_Code.png
+    ├── Power_Query.png
+    └── Key_Formulas.png
 ```
+## Behind the Model
+
+The workbook is protected to preserve the integrity of the model and its automated processes.
+
+Selected screenshots are provided to showcase the underlying VBA code, key formulas, Power Query workflows and technical features of the model.
 
 ## Disclaimer
 
