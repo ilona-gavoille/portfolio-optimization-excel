@@ -22,7 +22,7 @@ Automated Excel tool for portfolio construction based on **Markowitz's Modern Po
 3. On the Dashboard: **REFRESH $\rightarrow$ OPTIMIZE PORTFOLIO** (set min/max weights and risk-free rate) $\rightarrow$ **GENERATE**.
 
 Full step-by-step guide with screenshots:
-`docs/How_to_Use.pdf`
+`docs/how_to_use.pdf`
 
 ## Methodology (summary)
 
@@ -35,7 +35,7 @@ Full step-by-step guide with screenshots:
 | Optimal portfolio | Maximizes Sharpe ratio = $(R_p - R_f) / \sigma_p$ |
 
 Complete details, assumptions and formulas:
-`docs/Project_documentation.pdf`
+`docs/project_documentation.pdf`
 
 ## Investment Universe
 
@@ -62,15 +62,13 @@ AAPL · MSFT · JPM · XOM · JNJ · AMZN · KO · WMT (chosen for sector divers
 ├── Portfolio_Optimizer.xlsm
 ├── README.md
 ├── docs/
-│   ├── How_to_Use.pdf
-│   └── Project_documentation.pdf
+│   ├── how_to_use.pdf
+│   └── project_documentation.pdf
 └── screenshots/
-    ├── Dashboard.png
-    ├── Portfolio_Optimization.png
-    ├── Efficient_Frontier.png
-    ├── VBA_Code.png
-    ├── Power_Query.png
-    └── Key_Formulas.png
+    ├── efficient_frontier.png
+    ├── VBA_code.png
+    ├── power_query.png
+    └── key_formulas.png
 ```
 ## Behind the Model
 
