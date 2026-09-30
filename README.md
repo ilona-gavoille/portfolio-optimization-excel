@@ -82,4 +82,4 @@ Demo version. Not investment advice.
 
 ---
 
-**Author:** Ilona Gavoille · **Version:** 2.2 · **Last updated:** 30/09/2026
+**Author:** Ilona Gavoille · **Version:** Demo · **Last updated:** 01/10/2026
