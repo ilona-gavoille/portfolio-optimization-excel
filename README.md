@@ -17,7 +17,7 @@ Automated Excel tool for portfolio construction based on **Markowitz's Modern Po
 
 ## Quick Start
 
-1. Download `Portfolio_Optimizer.xlsm` and open it in **Excel Desktop** (enable macros and the **Solver** add-in).
+1. Download `Portfolio_Optimizer_demo.xlsm` and open it in **Excel Desktop** (enable macros and the **Solver** add-in).
 2. Get a free API key from [Financial Modeling Prep](https://site.financialmodelingprep.com/) and paste it into the Power Query editor.
 3. On the Dashboard: **REFRESH $\rightarrow$ OPTIMIZE PORTFOLIO** (set min/max weights and risk-free rate) $\rightarrow$ **GENERATE**.
 
