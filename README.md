@@ -48,7 +48,7 @@ AAPL · MSFT · JPM · XOM · JNJ · AMZN · KO · WMT (chosen for sector divers
 - All capital is invested in risky assets; risky/risk-free allocation is not optimized
 - No transaction costs, taxes, liquidity or market impact
 
-## Roadmap
+## Potential Improvements
 
 - Selectable historical window (5Y, 1Y, 6M, 3M)
 - User-selected assets from the Dashboard
