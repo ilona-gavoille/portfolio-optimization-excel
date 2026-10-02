@@ -1,4 +1,4 @@
-# Portfolio Optimization & Asset Allocation Tool
+# Portfolio Optimization & Asset Allocation Model
 
 Automated Excel tool for portfolio construction based on **Markowitz's Modern Portfolio Theory**: it pulls market data, computes risk/return statistics, and uses Solver to generate an efficient frontier, an Optimal portfolio and a Minimum Variance portfolio, all explored through an interactive dashboard.
 
