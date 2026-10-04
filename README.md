@@ -62,13 +62,13 @@ AAPL · MSFT · JPM · XOM · JNJ · AMZN · KO · WMT (chosen for sector divers
 ├── Portfolio_Optimizer.xlsm
 ├── README.md
 ├── docs/
-│   ├── how_to_use.pdf
-│   └── project_documentation.pdf
+│   ├── How_To_Use.pdf
+│   └── Project_Documentation.pdf
 └── screenshots/
-    ├── efficient_frontier.png
+    ├── Efficient_Frontier.png
     ├── VBA_code.png
-    ├── power_query.png
-    └── key_formulas.png
+    ├── Power_query.png
+    └── Key_Formulas.png
 ```
 ## Behind the Model
 
