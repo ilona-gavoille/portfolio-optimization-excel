@@ -5,7 +5,7 @@ Automated Excel tool for portfolio construction based on **Markowitz's Modern Po
 **Tech:** Excel · Power Query · VBA · Solver · Financial Modeling Prep API
 
 <img width="2828" height="1230" alt="image" src="https://github.com/user-attachments/assets/9a896c7b-12d2-4dbe-b0fe-2441a1a0761c" />
-
+[Dashboard] 
 
 ## Key Features
 
